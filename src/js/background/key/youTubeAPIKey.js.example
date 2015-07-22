@@ -11,7 +11,7 @@
 	// Referers: Any referer allowed
 	// Activated on:	Apr 6, 2014 2:46 PM
 	// Activated by:	------------ you
-    var key = '';
+    var key = 'AIzaSyDhcuHWPoXmGOvjE_Ns6ILJjTWSjXUUVWE';
 
 	if (key === '') {
 		console.error('YouTube API key has not been provided.');
